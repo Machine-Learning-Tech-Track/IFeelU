@@ -11,6 +11,8 @@ In the code:
 -> From your Spotify Developer account's Dashboard.<br/>
  In the terminal : **python PlaylistData.py --username <Spotify_username>**<br/>
 
+![songsdta](https://user-images.githubusercontent.com/54071144/114263383-c1fb0e00-9a02-11eb-928e-90382f459dc0.png)
+<br/>
   
   
 ## Step 3 : Classification of songs into 4 Genres
