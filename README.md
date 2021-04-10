@@ -30,3 +30,16 @@ In the code:
 
 
 ## Step 5 : Appropriate personalized Music suggestion
+<br/><br/>
+
+## Dependencies
+**II. Playlist Data:-**
+-> ```spotipy```
+-> ```pandas```
+-> ```json```
+**III. For Genre Classification :-**
+-> ```numpy```
+-> ```pandas```
+-> ```sklearn```
+-> ```seaborn```
+-> ```matplotlib```
