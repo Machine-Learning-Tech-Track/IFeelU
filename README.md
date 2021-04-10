@@ -6,7 +6,7 @@
 **Note : The songs datset has been added in the repository. Do this step, in case you want to try out with your playlist**
 
 In the code: 1.Insert client id <br/>
-             2.Insert secret id <br/>
+             <span>2.Insert secret id <br/>
 -> From your Spotify Developer account's Dashboard.<br/>
  In the terminal: python PlaylistData.py --username <Spotify_username><br/>
 
