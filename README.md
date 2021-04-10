@@ -36,7 +36,7 @@ In the code:
 **II. Playlist Data:-**
 * ```spotipy```
 *  ```pandas```
-* ```json```
+* ```json```<br/>
 **III. For Genre Classification :-**
 * ```numpy```
 * ```pandas```
