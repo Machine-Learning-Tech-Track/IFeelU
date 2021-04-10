@@ -34,12 +34,12 @@ In the code:
 
 ## Dependencies
 **II. Playlist Data:-**
--> ```spotipy```
--> ```pandas```
--> ```json```
+* ```spotipy```
+*  ```pandas```
+* ```json```
 **III. For Genre Classification :-**
--> ```numpy```
--> ```pandas```
--> ```sklearn```
--> ```seaborn```
--> ```matplotlib```
+* ```numpy```
+* ```pandas```
+* ```sklearn```
+* ```seaborn```
+* ```matplotlib```
