@@ -5,9 +5,11 @@
 
 ## Step 1 : Model for Facial Recognition<br/>
  <li>
- <ul>The dataset for facial emotion recognition was obtained from kaggle.</ul>
-  <ul> Run the ipynb notebook to obtain the json model </ul>
+ <ul>The dataset for facial emotion recognition was obtained from kaggle</ul>
+ <ul>Run the ipynb notebook to obtain the json model </ul>
 </li>
+ </br>
+ </br>
 ## Step 2 : Getting Playlist data<br/>
 **Note : The songs datset has been added in the repository. Do this step, in case you want to try out with your playlist**
 
