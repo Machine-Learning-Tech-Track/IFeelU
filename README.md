@@ -5,8 +5,8 @@
 
 ## Step 1 : Model for Facial Recognition<br/>
  <li>
- <ul>The dataset for facial emotion recognition was obtained from kaggle</ul>
- <ul>Run the ipynb notebook to obtain the json model </ul>
+ The dataset for facial emotion recognition was obtained from kaggle<br>
+ Run the ipynb notebook to obtain the json model
 </li>
  </br>
  </br>
