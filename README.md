@@ -3,9 +3,11 @@
 <p align="center">
  <img src="https://user-images.githubusercontent.com/54071144/114262903-1650be80-9a00-11eb-990a-c79848b55807.png" width="732" height="482">
 
-## Step 1 : Model for Facial Recognition<br/><br/>
-
-
+## Step 1 : Model for Facial Recognition<br/>
+ <li>
+ <ul>The dataset for facial emotion recognition was obtained from kaggle.</ul>
+  <ul> Run the ipynb notebook to obtain the json model </ul>
+</li>
 ## Step 2 : Getting Playlist data<br/>
 **Note : The songs datset has been added in the repository. Do this step, in case you want to try out with your playlist**
 
